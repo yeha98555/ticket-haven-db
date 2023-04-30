@@ -5,5 +5,5 @@ services:
     autoDeploy: false
     disk:
       name: data
-      mountPath: /data/db
+      mountPath: /home/n16/data/db
       sizeGB: 10
