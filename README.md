@@ -19,3 +19,9 @@ See the guide at https://render.com/docs/deploy-mongodb.
 If you need help, chat with us at https://render.com/chat.
 
 [MongoDB]: https://www.mongodb.com/
+
+## Reference
+
+### Fix SSH Troubleshooting
+- https://render.com/docs/ssh#limitations
+- https://community.render.com/t/ssh-mongodb-container/9759/2
