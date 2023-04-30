@@ -3,8 +3,7 @@ services:
     name: mongodb
     env: docker
     autoDeploy: false
-    region: Ohio
     disk:
       name: data
-      mountPath: /data/db
+      mountPath: /home/n16/data/db
       sizeGB: 10
